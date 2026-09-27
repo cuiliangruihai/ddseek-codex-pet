@@ -12,7 +12,7 @@
 
 ![ddseek 顺时针转动视线的动画](previews/direction-cycle.gif)
 
-[播放 16 方向 MP4 预览](previews/ddseek-demo.mp4) · [查看静态方向总览](previews/look-directions.png)
+[打开或下载 16 方向 MP4 预览](previews/ddseek-demo.mp4) · [查看静态方向总览](previews/look-directions.png)
 
 ### 标准动画
 
@@ -66,7 +66,7 @@ cp pet.json spritesheet.webp "$PET_DIR/"
 
 ![ddseek looking through 16 directions](previews/direction-cycle.gif)
 
-[Play the 16-direction MP4 preview](previews/ddseek-demo.mp4) · [Static direction sheet](previews/look-directions.png)
+[Open or download the 16-direction MP4 preview](previews/ddseek-demo.mp4) · [Static direction sheet](previews/look-directions.png)
 
 The v2 atlas is 1536 × 2288 pixels, RGBA, arranged as 8 columns by 11 rows. Rows 0–8 contain the nine standard animations. Rows 9–10 contain 16 clockwise look directions. Each cell is 192 × 208 pixels.
 
